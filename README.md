@@ -17,7 +17,7 @@ Recently I've worked on projects about Data Visualization, reach me out if you w
 
 ### 📫 How to reach me:
 - Email: giuseppe.concialdi@studenti.polito.it
-- LinkedIn: https://www.linkedin.com/in/giuseppe-concialdi-1407481b5/
+- LinkedIn: https://www.linkedin.com/in/giuseppe-concialdi/
 
 <!--
 **Gio99c/Gio99c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
