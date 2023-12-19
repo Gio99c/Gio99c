@@ -9,7 +9,7 @@ I'm currently attending the MSc in Data Science and Engineering at Politecnico d
 ---
 
 ### 📫 How to reach me:
-- Email: giuseppe.concialdi@studenti.polito.it
+- Email: giuseppe.concialdi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/giuseppe-concialdi/
 
 <!--
