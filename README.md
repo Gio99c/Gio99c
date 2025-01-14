@@ -1,28 +1,15 @@
-### Hi there 👋
-I'm Giuseppe Concialdi, here you can find the project I've worked on!
+### Welcome
+
+I’m Giuseppe Concialdi, an AI researcher specializing in generative models and computer vision. This repository showcases projects and ideas I’ve developed or contributed to in my work.
 
 ---
 
-### 🔭 About me 
-I'm currently attending the MSc in Data Science and Engineering at Politecnico di Torino. I'm a graduated student in Computer Engineering who loves Data Science and Mathematics.
+### About Me
+I am an AI researcher specializing in generative models and computer vision, with a focus on practical applications that bridge innovation and real-world impact. My work draws on a strong foundation in computer science and mathematics, paired with experience in developing AI-driven tools that enhance user experiences in streaming, shopping, and beyond.
+
 
 ---
 
-### 📫 How to reach me:
-- Email: giuseppe.concialdi@gmail.com
-- LinkedIn: https://www.linkedin.com/in/giuseppe-concialdi/
-
-<!--
-**Gio99c/Gio99c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- Email: giuseppe.concialdi@gmail.com  
+- LinkedIn: [Giuseppe Concialdi](https://www.linkedin.com/in/giuseppe-concialdi/)
